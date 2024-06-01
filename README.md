@@ -2,9 +2,9 @@
 This is a steadily updated list of phishing attack kits designed to retrieve login details along side other personal credentials.
 
 # Features
-Admin panel for viewing visitors
-Data Logging
-Antibots
+Admin panel for viewing visitors<br>
+Data Logging<br>
+Antibots<br>
 
 # Requirements
 - A domain name
@@ -13,9 +13,9 @@ Antibots
   2. Apache 2.4
 
 # USAGE
-Upload to your host the .zip file of any item in the list
-Extract zip on host
-Configure settings.php
+Upload to your host the .zip file of any item in the list<br>
+Extract zip on host<br>
+Configure settings.php<br>
 
 
 # Disclaimer
