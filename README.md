@@ -1,6 +1,11 @@
 # YoChi_list
 This is a steadily updated list of phishing attack kits designed to retrieve login details along side other personal credentials.
 
+# Features
+Admin panel for viewing visitors
+Data Logging
+Antibots
+
 # Requirements
 - A domain name
 - A web host with the following softwares installed and working
@@ -11,6 +16,7 @@ This is a steadily updated list of phishing attack kits designed to retrieve log
 Upload to your host the .zip file of any item in the list
 Extract zip on host
 Configure settings.php
+
 
 # Disclaimer
 The kits in this list are intended to educate researchers on the possiblities of what proficient attackers can do and possible ways they do it. This kit list should only be used in a legal social engineering research context with consent from the party to be phished.
